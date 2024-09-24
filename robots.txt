@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://szzie.github.io/idz/sitemap.idz.gz
